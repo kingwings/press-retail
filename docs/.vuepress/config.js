@@ -40,17 +40,7 @@ module.exports = {
                 title: 'Guide',
                 collapsable: false,
                 children: ['/guide/']
-            },
-            {
-              title: 'Guide2',
-              collapsable: false,
-              children: [
-                '/',
-                '/nested/',
-                '/guide/',
-                ['/page-b', 'Explicit link text']
-              ]
-          }
+            }
           ],
           sidebarDepth: 2,
         },
@@ -78,16 +68,7 @@ module.exports = {
                 title: 'Guide',
                 collapsable: false,
                 children: ['/en/guide/']
-            },
-            {
-              title: 'Guide2',
-              collapsable: false,
-              children: [
-                '/en/',
-                '/en/nested/',
-                ['/en/page-b', 'Explicit link text']
-              ]
-          }
+            }
           ],
           sidebarDepth: 2,
           displayAllHeaders: true, // 默认值：false
