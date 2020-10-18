@@ -1,4 +1,4 @@
-## This is guide
+## 指导手册
 content...
 
 ### title3
@@ -14,7 +14,7 @@ content...
 
 ```json
 {
-  "name": "vuepress-demo",
+  "name": "vuepress-中文",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
