@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-demo",
+  "name": "press-retail",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,5 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "@vuepress/core": "^1.7.1"
+  },
+  "devDependencies": {
+    "vuepress": "^1.7.1"
   }
 }
