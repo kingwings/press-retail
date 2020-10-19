@@ -20,3 +20,4 @@ footer: MIT Licensed | Copyright © 2020-present TonyKing
   "description": "",
 }
 ```
+[样例](/sample/)

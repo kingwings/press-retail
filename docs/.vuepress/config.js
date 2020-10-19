@@ -40,7 +40,12 @@ module.exports = {
                 title: 'Guide',
                 collapsable: false,
                 children: ['/guide/']
-            }
+            },
+            {
+              title: '样例',
+              collapsable: false,
+              children: ['/sample/']
+          }
           ],
           sidebarDepth: 2,
         },
